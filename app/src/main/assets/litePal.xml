@@ -1,0 +1,13 @@
+<litePal>
+
+    <dbname value="yunpeng_weather"/>
+
+    <version value="1" />
+
+    <list>
+        <mapping class="com.yunpengweather.android.db.Province"  />
+        <mapping class="com.yunpengweather.android.db.City"  />
+        <mapping class="com.yunpengweather.android.db.County"  />
+    </list>
+
+</litePal>
